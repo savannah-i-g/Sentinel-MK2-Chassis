@@ -1,4 +1,7 @@
 ### Sentinel, Mark 2, OSS Release
+
+> there is a phone case for a pixel 10 that I recovered too in here, don't print it unless needed!
+
 So, I have mentioned this before on my X profile, and that I have had a few considerations to keep in mind going forward - I even ran a poll. From this, the following points were reached to go forward:
 
 - OpenSource the prototype body (this) - refactoring would result in breaking changes without the original CAD files (more on this momentarily), and at this point the hardware drift requires a complete redesign of the screen area.
