@@ -43,4 +43,4 @@ Thank you!
 
 ### Licence
 
-MIT, do not assume this to reflect the final product and is a DISTINCT and SEPARATE thing.
+AGPL, do not assume this to reflect the final product and is a DISTINCT and SEPARATE thing.
