@@ -32,6 +32,10 @@ Print it. I never got around to testing different forms of plastic, but I did tr
 
 All screws are assumed to be M2, and you will need brass inserts for the posts.
 
+The handle/frame needs to be inverted prior to printing for the 'other half' - doing this in FreeCAD yielded disaster for some reason when slicing
+
+I used Bambu Studio
+
 ### Notes
 At production, obviously my documentation and release would be far more polished than this, but as you can gather from the reasons behind why I did this that ideally I wanted the release to be at pre-orders, not via a GitHub repository.
 
